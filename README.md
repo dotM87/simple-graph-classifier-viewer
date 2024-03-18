@@ -15,14 +15,14 @@ Esta aplicación en Python permite visualizar grafos simples y clasificarlos seg
 ## Instalación
 1. Clona el repositorio:
     ```bash
-        git clone https://github.com/dotM87/simple-graph-classifier-viewer.git
+    git clone https://github.com/dotM87/simple-graph-classifier-viewer.git
 2. Ingresa al directorio del proyecto:
     ```bash
-        cd simple-graph-classifier-viewer
+    cd simple-graph-classifier-viewer
 3. Instala las dependencias necesarias:
     ```bash
-        pip install -r requeriments.txt
+    pip install -r requeriments.txt
 ## Uso
 1. Ejecuta el script principal de la aplicación:
     ```bash
-        python main.py
+    python main.py
